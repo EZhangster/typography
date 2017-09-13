@@ -32,13 +32,14 @@ html,body {
 /* Paragraph Styles */
 
 .title {
-	font-family:'raleway';
-	font-size:5em;
-	padding: 25px;
-	color:#7a0019;
-	position: absolute;
-	z-index: 2;
-	width: 45%;
+	font-family: 'raleway';
+    font-size: 5em;
+    padding: 25px;
+    color: #FFF;
+    position: absolute;
+    z-index: 2;
+    width: 45%;
+    text-shadow: 0px 2px 7px #000;
 }
 
 .author {
