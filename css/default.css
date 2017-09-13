@@ -34,15 +34,9 @@ html,body {
 .title {
 	font-family:'raleway';
 	font-size:5em;
-	/* margin-left:50px; */
-	/* margin-bottom:25px; */
-	padding: 25px 50px;
+	padding: 25px;
 	color:#7a0019;
 	position: absolute;
-	/* width:100%; */
-	/* border-left: 12px solid #7a0019; */
-	/* border-right: 12px solid #7a0019; */
-	/* background: rgba(255,255,255,0.9); */
 	z-index: 2;
 	width: 45%;
 }
@@ -85,8 +79,8 @@ html,body {
     -webkit-transform: skewX(20deg);
     transform: skewX(20deg);
     margin-left:-50px;
-		padding-right:50px;
-		z-index:2;
+	padding-right:25px;
+	z-index:2;
 }
 
 .skew p{
